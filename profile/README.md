@@ -30,4 +30,4 @@ Ayudar a empresas a escalar mediante tecnología inteligente y automatización e
 ## 🌎 Contacto
 
 🌐 https://lumierecode.com
-📩 contacto@lumierecode.com
+📩 proyectos@lumierecode.com
