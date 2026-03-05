@@ -17,6 +17,7 @@ Construimos:
 - PostgreSQL
 - Docker
 - AWS
+- Google Cloud
 - OpenAI / LLMs
 
 ---
